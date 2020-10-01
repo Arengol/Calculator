@@ -110,5 +110,13 @@ namespace WpfLR1Calculator
             if (op == "") leftop += ",";
             else ritop += ",";
         }
+        private void Buttondelenie_Click(object sender, RoutedEventArgs e)
+        {
+          
+        }
+        private void Buttonminus_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

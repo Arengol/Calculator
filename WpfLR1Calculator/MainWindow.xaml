@@ -5,9 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfLR1Calculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="800">
+        Title="MainWindow" Height="800" Width="800">
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
@@ -22,7 +25,7 @@
         </Grid.ColumnDefinitions>
        
         <TextBox Grid.Row="0" Grid.Column="1" x:Name="textBox" Width="250" Height="30" IsReadOnly="True" />
-        <Button Grid.Row="0" Grid.Column="2" x:Name="buttonpoint"  Width="100" Height="30" Content="." Click="Buttonpoint_Click"  />
+        <Button Grid.Row="4" Grid.Column="2" x:Name="buttonpoint"  Width="100" Height="30" Content="." Click="Buttonpoint_Click"  />
         <Button Grid.Row="1" Grid.Column="0" x:Name="button1"  Width="100" Height="30" Content="7" Click="Button1_Click"  />
         <Button Grid.Row="1" Grid.Column="1" x:Name="button1_Copy"  Width="100" Height="30" Content="8" Click="Button2_Click"  />
         <Button Grid.Row="1" Grid.Column="2" x:Name="button1_Copy1"  Width="100" Height="30" Content="9" Click="Button3_Click"  />
@@ -33,7 +36,9 @@
         <Button Grid.Row="3" Grid.Column="1" x:Name="button1_Copy6"  Width="100" Height="30" Content="2" Click="Button8_Click"  />
         <Button Grid.Row="3" Grid.Column="2" x:Name="button1_Copy7"  Width="100" Height="30" Content="3" Click="Button9_Click"  />
         <Button Grid.Row="4" Grid.Column="1" x:Name="button1_Copy8"  Width="100" Height="30" Content="0" Click="Button10_Click" />
-        <Button Grid.Row="4" Grid.Column="2" x:Name="button1_Copy9"  Width="100" Height="30" Content="+" Click="Buttonplus_Click" />
+        <Button Grid.Row="5" Grid.Column="0" x:Name="button1_Copy9"  Width="100" Height="30" Content="+" Click="Buttonplus_Click" />
         <Button Grid.Row="4" Grid.Column="0" x:Name="button1_Copy10"  Width="100" Height="30" Content="=" Click="Buttonravno_Click" />
+        <Button Grid.Row="5" Grid.Column="1" x:Name="button1_Copy11"  Width="100" Height="30" Content="/" Click="Buttondelenie_Click" />
+        <Button Grid.Row="5" Grid.Column="2" x:Name="button1_Copy12"  Width="100" Height="30" Content="/" Click="Buttonminus_Click" />
     </Grid>
 </Window>
