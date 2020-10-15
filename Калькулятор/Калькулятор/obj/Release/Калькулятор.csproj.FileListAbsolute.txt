@@ -1,0 +1,15 @@
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\bin\Release\Калькулятор.exe.config
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\bin\Release\Калькулятор.exe
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\bin\Release\Калькулятор.pdb
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\MainWindow.g.cs
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\App.g.cs
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор_MarkupCompile.cache
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор_MarkupCompile.lref
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\MainWindow.baml
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.g.resources
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.Properties.Resources.resources
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.exe
+C:\Users\Danil\source\repos\Калькулятор\Калькулятор\obj\Release\Калькулятор.pdb
