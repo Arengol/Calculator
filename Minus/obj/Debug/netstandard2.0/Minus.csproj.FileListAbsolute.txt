@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\bin\Debug\netstandard2.0\Minus.deps.json
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\bin\Debug\netstandard2.0\Minus.dll
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\bin\Debug\netstandard2.0\Minus.pdb
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\obj\Debug\netstandard2.0\Minus.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\obj\Debug\netstandard2.0\Minus.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\obj\Debug\netstandard2.0\Minus.AssemblyInfo.cs
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\obj\Debug\netstandard2.0\Minus.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\obj\Debug\netstandard2.0\Minus.dll
+C:\Users\User\Downloads\Calculator-master\Calculator-master\Minus\obj\Debug\netstandard2.0\Minus.pdb
