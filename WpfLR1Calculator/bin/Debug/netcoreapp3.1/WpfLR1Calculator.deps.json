@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WpfLR1Calculator/1.0.0": {
+        "dependencies": {
+          "Minus": "1.0.0",
+          "lr1calclib": "1.0.0"
+        },
+        "runtime": {
+          "WpfLR1Calculator.dll": {}
+        }
+      },
+      "lr1calclib/1.0.0": {
+        "runtime": {
+          "lr1calclib.dll": {}
+        }
+      },
+      "Minus/1.0.0": {
+        "runtime": {
+          "Minus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfLR1Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lr1calclib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Minus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
