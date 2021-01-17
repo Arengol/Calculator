@@ -96,10 +96,22 @@ namespace WpfLR1Calculator
             textBox.Text += " + ";
             op = "+";
         }
+        private void Buttonminus_Click(object sender, RoutedEventArgs e)
+        {
+            textBox.Text += " - ";
+            op = "-";
+        }
         private void Buttonravno_Click(object sender, RoutedEventArgs e)
         {
             textBox.Clear();
-            leftop= lr1calc.Class1.plus(leftop, ritop);
+            if (op == "+")
+            { 
+                leftop = lr1calc.Class1.plus(leftop, ritop);
+            }
+            if (op == "-")
+            {
+                leftop = Minus.Class1.minus(leftop, ritop);
+            }
             textBox.Text += leftop;
             op = "";
             ritop = "";
@@ -110,5 +122,7 @@ namespace WpfLR1Calculator
             if (op == "") leftop += ",";
             else ritop += ",";
         }
+
+       
     }
 }
